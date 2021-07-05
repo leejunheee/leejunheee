@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ggujunheee.tistory.com/)](https://ggujunheee.tistory.com/) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejunheee)](https://github.com/leejunheee/leejunheee)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leejunheee)](https://github.com/leejunheee/leejunheee)
+
